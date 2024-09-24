@@ -1,0 +1,18 @@
+age=15
+print("age:",age)
+print('type of age',type(age))
+name="penguin"
+print('name:',name)
+print('type of name',type(name))
+age=str(age)
+print('age:',age)
+print('type of age',type(age))
+is_student=True
+print('is_student:',is_student)
+print('type of is_student',type(is_student))    
+weight=38.5
+print('weight:',weight)
+print('type of weight',type(weight))
+weight=int(weight)
+print('weight:',weight)
+print('type of weight',type(weight))
